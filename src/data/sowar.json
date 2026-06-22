@@ -1,0 +1,800 @@
+[
+  {
+    "name": "الفاتحة",
+    "ayat": 7,
+    "revelation_place": "مكية",
+    "from": 1,
+    "to": 7
+  },
+  {
+    "name": "البقرة",
+    "ayat": 286,
+    "revelation_place": "مدنية",
+    "from": 8,
+    "to": 293
+  },
+  {
+    "name": "آل عمران",
+    "ayat": 200,
+    "revelation_place": "مدنية",
+    "from": 294,
+    "to": 493
+  },
+  {
+    "name": "النساء",
+    "ayat": 176,
+    "revelation_place": "مدنية",
+    "from": 494,
+    "to": 669
+  },
+  {
+    "name": "المائدة",
+    "ayat": 120,
+    "revelation_place": "مدنية",
+    "from": 670,
+    "to": 789
+  },
+  {
+    "name": "الأنعام",
+    "ayat": 165,
+    "revelation_place": "مكية",
+    "from": 790,
+    "to": 954
+  },
+  {
+    "name": "الأعراف",
+    "ayat": 206,
+    "revelation_place": "مكية",
+    "from": 955,
+    "to": 1160
+  },
+  {
+    "name": "الأنفال",
+    "ayat": 75,
+    "revelation_place": "مدنية",
+    "from": 1161,
+    "to": 1235
+  },
+  {
+    "name": "التوبة",
+    "ayat": 129,
+    "revelation_place": "مدنية",
+    "from": 1236,
+    "to": 1364
+  },
+  {
+    "name": "يونس",
+    "ayat": 109,
+    "revelation_place": "مكية",
+    "from": 1365,
+    "to": 1473
+  },
+  {
+    "name": "هود",
+    "ayat": 123,
+    "revelation_place": "مكية",
+    "from": 1474,
+    "to": 1596
+  },
+  {
+    "name": "يوسف",
+    "ayat": 111,
+    "revelation_place": "مكية",
+    "from": 1597,
+    "to": 1707
+  },
+  {
+    "name": "الرعد",
+    "ayat": 43,
+    "revelation_place": "مدنية",
+    "from": 1708,
+    "to": 1750
+  },
+  {
+    "name": "إبراهيم",
+    "ayat": 52,
+    "revelation_place": "مكية",
+    "from": 1751,
+    "to": 1802
+  },
+  {
+    "name": "الحجر",
+    "ayat": 99,
+    "revelation_place": "مكية",
+    "from": 1803,
+    "to": 1901
+  },
+  {
+    "name": "النحل",
+    "ayat": 128,
+    "revelation_place": "مكية",
+    "from": 1902,
+    "to": 2029
+  },
+  {
+    "name": "الإسراء",
+    "ayat": 111,
+    "revelation_place": "مكية",
+    "from": 2030,
+    "to": 2140
+  },
+  {
+    "name": "الكهف",
+    "ayat": 110,
+    "revelation_place": "مكية",
+    "from": 2141,
+    "to": 2250
+  },
+  {
+    "name": "مريم",
+    "ayat": 98,
+    "revelation_place": "مكية",
+    "from": 2251,
+    "to": 2348
+  },
+  {
+    "name": "طه",
+    "ayat": 135,
+    "revelation_place": "مكية",
+    "from": 2349,
+    "to": 2483
+  },
+  {
+    "name": "الأنبياء",
+    "ayat": 112,
+    "revelation_place": "مكية",
+    "from": 2484,
+    "to": 2595
+  },
+  {
+    "name": "الحج",
+    "ayat": 78,
+    "revelation_place": "مدنية",
+    "from": 2596,
+    "to": 2673
+  },
+  {
+    "name": "المؤمنون",
+    "ayat": 118,
+    "revelation_place": "مكية",
+    "from": 2674,
+    "to": 2791
+  },
+  {
+    "name": "النور",
+    "ayat": 64,
+    "revelation_place": "مدنية",
+    "from": 2792,
+    "to": 2855
+  },
+  {
+    "name": "الفرقان",
+    "ayat": 77,
+    "revelation_place": "مكية",
+    "from": 2856,
+    "to": 2932
+  },
+  {
+    "name": "الشعراء",
+    "ayat": 227,
+    "revelation_place": "مكية",
+    "from": 2933,
+    "to": 3159
+  },
+  {
+    "name": "النمل",
+    "ayat": 93,
+    "revelation_place": "مكية",
+    "from": 3160,
+    "to": 3252
+  },
+  {
+    "name": "القصص",
+    "ayat": 88,
+    "revelation_place": "مكية",
+    "from": 3253,
+    "to": 3340
+  },
+  {
+    "name": "العنكبوت",
+    "ayat": 69,
+    "revelation_place": "مكية",
+    "from": 3341,
+    "to": 3409
+  },
+  {
+    "name": "الروم",
+    "ayat": 60,
+    "revelation_place": "مكية",
+    "from": 3410,
+    "to": 3469
+  },
+  {
+    "name": "لقمان",
+    "ayat": 34,
+    "revelation_place": "مكية",
+    "from": 3470,
+    "to": 3503
+  },
+  {
+    "name": "السجدة",
+    "ayat": 30,
+    "revelation_place": "مكية",
+    "from": 3504,
+    "to": 3533
+  },
+  {
+    "name": "الأحزاب",
+    "ayat": 73,
+    "revelation_place": "مدنية",
+    "from": 3534,
+    "to": 3606
+  },
+  {
+    "name": "سبأ",
+    "ayat": 54,
+    "revelation_place": "مكية",
+    "from": 3607,
+    "to": 3660
+  },
+  {
+    "name": "فاطر",
+    "ayat": 45,
+    "revelation_place": "مكية",
+    "from": 3661,
+    "to": 3705
+  },
+  {
+    "name": "يس",
+    "ayat": 83,
+    "revelation_place": "مكية",
+    "from": 3706,
+    "to": 3788
+  },
+  {
+    "name": "الصافات",
+    "ayat": 182,
+    "revelation_place": "مكية",
+    "from": 3789,
+    "to": 3970
+  },
+  {
+    "name": "ص",
+    "ayat": 88,
+    "revelation_place": "مكية",
+    "from": 3971,
+    "to": 4058
+  },
+  {
+    "name": "الزمر",
+    "ayat": 75,
+    "revelation_place": "مكية",
+    "from": 4059,
+    "to": 4133
+  },
+  {
+    "name": "غافر",
+    "ayat": 85,
+    "revelation_place": "مكية",
+    "from": 4134,
+    "to": 4218
+  },
+  {
+    "name": "فصلت",
+    "ayat": 54,
+    "revelation_place": "مكية",
+    "from": 4219,
+    "to": 4272
+  },
+  {
+    "name": "الشورى",
+    "ayat": 53,
+    "revelation_place": "مكية",
+    "from": 4273,
+    "to": 4325
+  },
+  {
+    "name": "الزخرف",
+    "ayat": 89,
+    "revelation_place": "مكية",
+    "from": 4326,
+    "to": 4414
+  },
+  {
+    "name": "الدخان",
+    "ayat": 59,
+    "revelation_place": "مكية",
+    "from": 4415,
+    "to": 4473
+  },
+  {
+    "name": "الجاثية",
+    "ayat": 37,
+    "revelation_place": "مكية",
+    "from": 4474,
+    "to": 4510
+  },
+  {
+    "name": "الأحقاف",
+    "ayat": 35,
+    "revelation_place": "مكية",
+    "from": 4511,
+    "to": 4545
+  },
+  {
+    "name": "محمد",
+    "ayat": 38,
+    "revelation_place": "مدنية",
+    "from": 4546,
+    "to": 4583
+  },
+  {
+    "name": "الفتح",
+    "ayat": 29,
+    "revelation_place": "مدنية",
+    "from": 4584,
+    "to": 4612
+  },
+  {
+    "name": "الحجرات",
+    "ayat": 18,
+    "revelation_place": "مدنية",
+    "from": 4613,
+    "to": 4630
+  },
+  {
+    "name": "ق",
+    "ayat": 45,
+    "revelation_place": "مكية",
+    "from": 4631,
+    "to": 4675
+  },
+  {
+    "name": "الذاريات",
+    "ayat": 60,
+    "revelation_place": "مكية",
+    "from": 4676,
+    "to": 4735
+  },
+  {
+    "name": "الطور",
+    "ayat": 49,
+    "revelation_place": "مكية",
+    "from": 4736,
+    "to": 4784
+  },
+  {
+    "name": "النجم",
+    "ayat": 62,
+    "revelation_place": "مكية",
+    "from": 4785,
+    "to": 4846
+  },
+  {
+    "name": "القمر",
+    "ayat": 55,
+    "revelation_place": "مكية",
+    "from": 4847,
+    "to": 4901
+  },
+  {
+    "name": "الرحمن",
+    "ayat": 78,
+    "revelation_place": "مدنية",
+    "from": 4902,
+    "to": 4979
+  },
+  {
+    "name": "الواقعة",
+    "ayat": 96,
+    "revelation_place": "مكية",
+    "from": 4980,
+    "to": 5075
+  },
+  {
+    "name": "الحديد",
+    "ayat": 29,
+    "revelation_place": "مدنية",
+    "from": 5076,
+    "to": 5104
+  },
+  {
+    "name": "المجادلة",
+    "ayat": 22,
+    "revelation_place": "مدنية",
+    "from": 5105,
+    "to": 5126
+  },
+  {
+    "name": "الحشر",
+    "ayat": 24,
+    "revelation_place": "مدنية",
+    "from": 5127,
+    "to": 5150
+  },
+  {
+    "name": "الممتحنة",
+    "ayat": 13,
+    "revelation_place": "مدنية",
+    "from": 5151,
+    "to": 5163
+  },
+  {
+    "name": "الصف",
+    "ayat": 14,
+    "revelation_place": "مدنية",
+    "from": 5164,
+    "to": 5177
+  },
+  {
+    "name": "الجمعة",
+    "ayat": 11,
+    "revelation_place": "مدنية",
+    "from": 5178,
+    "to": 5188
+  },
+  {
+    "name": "المنافقون",
+    "ayat": 11,
+    "revelation_place": "مدنية",
+    "from": 5189,
+    "to": 5199
+  },
+  {
+    "name": "التغابن",
+    "ayat": 18,
+    "revelation_place": "مدنية",
+    "from": 5200,
+    "to": 5217
+  },
+  {
+    "name": "الطلاق",
+    "ayat": 12,
+    "revelation_place": "مدنية",
+    "from": 5218,
+    "to": 5229
+  },
+  {
+    "name": "التحريم",
+    "ayat": 12,
+    "revelation_place": "مدنية",
+    "from": 5230,
+    "to": 5241
+  },
+  {
+    "name": "الملك",
+    "ayat": 30,
+    "revelation_place": "مكية",
+    "from": 5242,
+    "to": 5271
+  },
+  {
+    "name": "القلم",
+    "ayat": 52,
+    "revelation_place": "مكية",
+    "from": 5272,
+    "to": 5323
+  },
+  {
+    "name": "الحاقة",
+    "ayat": 52,
+    "revelation_place": "مكية",
+    "from": 5324,
+    "to": 5375
+  },
+  {
+    "name": "المعارج",
+    "ayat": 44,
+    "revelation_place": "مكية",
+    "from": 5376,
+    "to": 5419
+  },
+  {
+    "name": "نوح",
+    "ayat": 28,
+    "revelation_place": "مكية",
+    "from": 5420,
+    "to": 5447
+  },
+  {
+    "name": "الجن",
+    "ayat": 28,
+    "revelation_place": "مكية",
+    "from": 5448,
+    "to": 5475
+  },
+  {
+    "name": "المزمل",
+    "ayat": 20,
+    "revelation_place": "مكية",
+    "from": 5476,
+    "to": 5495
+  },
+  {
+    "name": "المدثر",
+    "ayat": 56,
+    "revelation_place": "مكية",
+    "from": 5496,
+    "to": 5551
+  },
+  {
+    "name": "القيامة",
+    "ayat": 40,
+    "revelation_place": "مكية",
+    "from": 5552,
+    "to": 5591
+  },
+  {
+    "name": "الإنسان",
+    "ayat": 31,
+    "revelation_place": "مدنية",
+    "from": 5592,
+    "to": 5622
+  },
+  {
+    "name": "المرسلات",
+    "ayat": 50,
+    "revelation_place": "مكية",
+    "from": 5623,
+    "to": 5672
+  },
+  {
+    "name": "النبأ",
+    "ayat": 40,
+    "revelation_place": "مكية",
+    "from": 5673,
+    "to": 5712
+  },
+  {
+    "name": "النازعات",
+    "ayat": 46,
+    "revelation_place": "مكية",
+    "from": 5713,
+    "to": 5758
+  },
+  {
+    "name": "عبس",
+    "ayat": 42,
+    "revelation_place": "مكية",
+    "from": 5759,
+    "to": 5800
+  },
+  {
+    "name": "التكوير",
+    "ayat": 29,
+    "revelation_place": "مكية",
+    "from": 5801,
+    "to": 5829
+  },
+  {
+    "name": "الانفطار",
+    "ayat": 19,
+    "revelation_place": "مكية",
+    "from": 5830,
+    "to": 5848
+  },
+  {
+    "name": "المطففين",
+    "ayat": 36,
+    "revelation_place": "مكية",
+    "from": 5849,
+    "to": 5884
+  },
+  {
+    "name": "الانشقاق",
+    "ayat": 25,
+    "revelation_place": "مكية",
+    "from": 5885,
+    "to": 5909
+  },
+  {
+    "name": "البروج",
+    "ayat": 22,
+    "revelation_place": "مكية",
+    "from": 5910,
+    "to": 5931
+  },
+  {
+    "name": "الطارق",
+    "ayat": 17,
+    "revelation_place": "مكية",
+    "from": 5932,
+    "to": 5948
+  },
+  {
+    "name": "الأعلى",
+    "ayat": 19,
+    "revelation_place": "مكية",
+    "from": 5949,
+    "to": 5967
+  },
+  {
+    "name": "الغاشية",
+    "ayat": 26,
+    "revelation_place": "مكية",
+    "from": 5968,
+    "to": 5993
+  },
+  {
+    "name": "الفجر",
+    "ayat": 30,
+    "revelation_place": "مكية",
+    "from": 5994,
+    "to": 6023
+  },
+  {
+    "name": "البلد",
+    "ayat": 20,
+    "revelation_place": "مكية",
+    "from": 6024,
+    "to": 6043
+  },
+  {
+    "name": "الشمس",
+    "ayat": 15,
+    "revelation_place": "مكية",
+    "from": 6044,
+    "to": 6058
+  },
+  {
+    "name": "الليل",
+    "ayat": 21,
+    "revelation_place": "مكية",
+    "from": 6059,
+    "to": 6079
+  },
+  {
+    "name": "الضحى",
+    "ayat": 11,
+    "revelation_place": "مكية",
+    "from": 6080,
+    "to": 6090
+  },
+  {
+    "name": "الشرح",
+    "ayat": 8,
+    "revelation_place": "مكية",
+    "from": 6091,
+    "to": 6098
+  },
+  {
+    "name": "التين",
+    "ayat": 8,
+    "revelation_place": "مكية",
+    "from": 6099,
+    "to": 6106
+  },
+  {
+    "name": "العلق",
+    "ayat": 19,
+    "revelation_place": "مكية",
+    "from": 6107,
+    "to": 6125
+  },
+  {
+    "name": "القدر",
+    "ayat": 5,
+    "revelation_place": "مكية",
+    "from": 6126,
+    "to": 6130
+  },
+  {
+    "name": "البينة",
+    "ayat": 8,
+    "revelation_place": "مدنية",
+    "from": 6131,
+    "to": 6138
+  },
+  {
+    "name": "الزلزلة",
+    "ayat": 8,
+    "revelation_place": "مدنية",
+    "from": 6139,
+    "to": 6146
+  },
+  {
+    "name": "العاديات",
+    "ayat": 11,
+    "revelation_place": "مكية",
+    "from": 6147,
+    "to": 6157
+  },
+  {
+    "name": "القارعة",
+    "ayat": 11,
+    "revelation_place": "مكية",
+    "from": 6158,
+    "to": 6168
+  },
+  {
+    "name": "التكاثر",
+    "ayat": 8,
+    "revelation_place": "مكية",
+    "from": 6169,
+    "to": 6176
+  },
+  {
+    "name": "العصر",
+    "ayat": 3,
+    "revelation_place": "مكية",
+    "from": 6177,
+    "to": 6179
+  },
+  {
+    "name": "الهمزة",
+    "ayat": 9,
+    "revelation_place": "مكية",
+    "from": 6180,
+    "to": 6188
+  },
+  {
+    "name": "الفيل",
+    "ayat": 5,
+    "revelation_place": "مكية",
+    "from": 6189,
+    "to": 6193
+  },
+  {
+    "name": "قريش",
+    "ayat": 4,
+    "revelation_place": "مكية",
+    "from": 6194,
+    "to": 6197
+  },
+  {
+    "name": "الماعون",
+    "ayat": 7,
+    "revelation_place": "مكية",
+    "from": 6198,
+    "to": 6204
+  },
+  {
+    "name": "الكوثر",
+    "ayat": 3,
+    "revelation_place": "مكية",
+    "from": 6205,
+    "to": 6207
+  },
+  {
+    "name": "الكافرون",
+    "ayat": 6,
+    "revelation_place": "مكية",
+    "from": 6208,
+    "to": 6213
+  },
+  {
+    "name": "النصر",
+    "ayat": 3,
+    "revelation_place": "مدنية",
+    "from": 6214,
+    "to": 6216
+  },
+  {
+    "name": "المسد",
+    "ayat": 5,
+    "revelation_place": "مكية",
+    "from": 6217,
+    "to": 6221
+  },
+  {
+    "name": "الإخلاص",
+    "ayat": 4,
+    "revelation_place": "مكية",
+    "from": 6222,
+    "to": 6225
+  },
+  {
+    "name": "الفلق",
+    "ayat": 5,
+    "revelation_place": "مكية",
+    "from": 6226,
+    "to": 6230
+  },
+  {
+    "name": "الناس",
+    "ayat": 6,
+    "revelation_place": "مكية",
+    "from": 6231,
+    "to": 6236
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "name": "alquran-js",
+  "version": "0.0.2",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Quran package for JavaScript and TypeScript applications.",
+  "keywords": [
+    "quran",
+    "islam",
+    "typescript",
+    "javascript"
+  ],
+  "license": "MIT",
+  "author": "Othman Abdulazeem El-Amin",
+  "homepage": "https://github.com/othaimin/alquran-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othaimin/alquran-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/othaimin/alquran-js/issues"
+  },
+  "type": "commonjs",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+    ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^6.0.3"
+  }
+}
