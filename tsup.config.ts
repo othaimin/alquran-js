@@ -1,13 +1,10 @@
 import { defineConfig } from "tsup";
+
 export default defineConfig({
   entry: ["src/index.ts"],
-  format: ["cjs", "esm"], 
-  dts: true, 
-  splitting: true,
-  sourcemap: true,
+  format: ["cjs", "esm"],
+  dts: true,
   clean: true,
-  minify:true,
- loader: {
-    ".json": "copy",
-  }
+  sourcemap: true,
+  minify: true,
 });
